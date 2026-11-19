@@ -13,7 +13,7 @@ function App() {
   const cercato = "db-01"
 
   return (
-    <div className="pannello">
+    <main className="pannello">
       <Intestazione
         nome={sistema.nome}
         aggiornato={sistema.aggiornato}
@@ -34,7 +34,7 @@ function App() {
         server={trovaServer(servers, cercato)}
       />
       <Avvisi elenco={avvisi} />
-    </div>
+    </main>
   )
 }
 
