@@ -1,6 +1,3 @@
-// src/dati-blackout.js — NON MODIFICARE. Gli stessi sei server, tutti spenti.
-// Dati inventati per l'esercizio.
-
 export const sistema = {
   nome: "Piattaforma Ordini",
   aggiornato: "11/11/2026 alle 03:00"

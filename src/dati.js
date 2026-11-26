@@ -1,6 +1,3 @@
-// src/dati.js — NON MODIFICARE: i risultati attesi dipendono da questi valori.
-// Dati inventati per l'esercizio.
-
 export const sistema = {
   nome: "Piattaforma Ordini",
   aggiornato: "11/11/2026 alle 10:15"

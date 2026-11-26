@@ -1,4 +1,5 @@
 function Intestazione({ nome, aggiornato, online, totale }) {
+  
   return (
     <header className="intestazione">
       <h1>{nome}</h1>
